@@ -119,6 +119,10 @@ section.hero .down-arrow path {
   fill: white;
 }
 
+.more-info {
+  margin-top: 50px;
+}
+
 .more-info img {
   width: 100%;
   -o-object-fit: cover;
